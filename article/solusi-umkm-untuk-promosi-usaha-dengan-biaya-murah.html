@@ -2,6 +2,13 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
+    <script>
+        fetch('seo-header.html')
+            .then(response => response.text())
+            .then(data => {
+                document.head.innerHTML += data;
+            });
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Solusi Promosi bagi UMKM dengan Biaya Murah | Digital Agency</title>
     <meta name="description" content="Temukan 8 strategi promosi efektif dengan biaya rendah untuk UMKM. Dari media sosial hingga Google Maps, tingkatkan penjualan tanpa menguras anggaran.">
