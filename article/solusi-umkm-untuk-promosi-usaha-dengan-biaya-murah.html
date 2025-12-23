@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <script>
-        fetch('seo-header.html')
+        fetch('/seo-header.html')
             .then(response => response.text())
             .then(data => {
                 document.head.innerHTML += data;
