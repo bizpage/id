@@ -153,13 +153,15 @@
 
 <!-- ===== FOOTER ===== -->
 <footer class="bg-gray-900 text-gray-400">
-  <div class="container mx-auto px-6 py-16">
-    <div class="grid gap-10 md:grid-cols-4">
+  <div class="container mx-auto px-6 py-14">
+    <div class="grid gap-12 md:grid-cols-4 text-center md:text-left">
 
       <!-- Brand -->
       <div>
-        <h3 class="text-white text-xl font-bold mb-3">Bizpage</h3>
-        <p class="text-sm leading-relaxed">
+        <h3 class="text-white text-lg font-semibold mb-3">
+          Bizpage
+        </h3>
+        <p class="text-sm leading-relaxed max-w-xs mx-auto md:mx-0">
           Solusi publikasi, promosi, digital marketing, SEO, dan pembuatan website
           profesional untuk UMKM & perusahaan.
         </p>
@@ -167,59 +169,92 @@
 
       <!-- Services -->
       <div>
-        <h4 class="text-white font-semibold mb-4">Layanan</h4>
+        <h4 class="text-white text-sm font-semibold mb-4 uppercase tracking-wide">
+          Layanan
+        </h4>
         <ul class="space-y-2 text-sm">
-          <li>Publikasi & Promosi</li>
-          <li>Digital Marketing</li>
-          <li>SEO Website</li>
-          <li>Pembuatan Website</li>
+          <li class="hover:text-blue-400 transition">Publikasi & Promosi</li>
+          <li class="hover:text-blue-400 transition">Digital Marketing</li>
+          <li class="hover:text-blue-400 transition">SEO Website</li>
+          <li class="hover:text-blue-400 transition">Pembuatan Website</li>
         </ul>
       </div>
 
       <!-- Company -->
       <div>
-        <h4 class="text-white font-semibold mb-4">Perusahaan</h4>
+        <h4 class="text-white text-sm font-semibold mb-4 uppercase tracking-wide">
+          Perusahaan
+        </h4>
         <ul class="space-y-2 text-sm">
-          <li><a href="#about" class="hover:text-white">Tentang Kami</a></li>
-          <li><a href="#services" class="hover:text-white">Layanan</a></li>
-          <li><a href="#gallery" class="hover:text-white">Portofolio</a></li>
-          <li><a href="#contact" class="hover:text-white">Kontak</a></li>
+          <li>
+            <a href="#about" class="hover:text-blue-400 transition">
+              Tentang Kami
+            </a>
+          </li>
+          <li>
+            <a href="#services" class="hover:text-blue-400 transition">
+              Layanan
+            </a>
+          </li>
+          <li>
+            <a href="#gallery" class="hover:text-blue-400 transition">
+              Portofolio
+            </a>
+          </li>
+          <li>
+            <a href="#contact" class="hover:text-blue-400 transition">
+              Kontak
+            </a>
+          </li>
         </ul>
       </div>
 
       <!-- Contact -->
       <div>
-        <h4 class="text-white font-semibold mb-4">Kontak</h4>
+        <h4 class="text-white text-sm font-semibold mb-4 uppercase tracking-wide">
+          Kontak
+        </h4>
+
         <ul class="space-y-3 text-sm">
           <li>
-            <span class="block">📞 WhatsApp</span>
+            <span class="block text-gray-500">WhatsApp</span>
             <a href="https://wa.me/6285211724490"
                target="_blank"
-               class="hover:text-white">
+               class="hover:text-blue-400 transition">
               +62 852-1172-4490
             </a>
           </li>
+
           <li>
-            <span class="block">📧 Email</span>
-            <a href="mailto:info@bizpage.id" class="hover:text-white">
+            <span class="block text-gray-500">Email</span>
+            <a href="mailto:info@bizpage.id"
+               class="hover:text-blue-400 transition">
               info@bizpage.id
             </a>
           </li>
         </ul>
 
         <!-- Social Media -->
-        <div class="flex gap-4 mt-6">
-          <a href="#" class="w-9 h-9 flex items-center justify-center rounded-full bg-gray-800 hover:bg-blue-600 text-white">
-            <i class="fab fa-facebook-f"></i>
+        <div class="flex justify-center md:justify-start gap-3 mt-6">
+          <a href="#"
+             class="w-9 h-9 flex items-center justify-center rounded-full
+                    bg-gray-800 hover:bg-blue-600 transition text-white">
+            <i class="fab fa-facebook-f text-sm"></i>
           </a>
-          <a href="#" class="w-9 h-9 flex items-center justify-center rounded-full bg-gray-800 hover:bg-sky-500 text-white">
-            <i class="fab fa-twitter"></i>
+          <a href="#"
+             class="w-9 h-9 flex items-center justify-center rounded-full
+                    bg-gray-800 hover:bg-blue-500 transition text-white">
+            <i class="fab fa-twitter text-sm"></i>
           </a>
-          <a href="#" class="w-9 h-9 flex items-center justify-center rounded-full bg-gray-800 hover:bg-pink-600 text-white">
-            <i class="fab fa-instagram"></i>
+          <a href="#"
+             class="w-9 h-9 flex items-center justify-center rounded-full
+                    bg-gray-800 hover:bg-pink-500 transition text-white">
+            <i class="fab fa-instagram text-sm"></i>
           </a>
-          <a href="#" class="w-9 h-9 flex items-center justify-center rounded-full bg-gray-800 hover:bg-blue-700 text-white">
-            <i class="fab fa-linkedin-in"></i>
+          <a href="#"
+             class="w-9 h-9 flex items-center justify-center rounded-full
+                    bg-gray-800 hover:bg-blue-700 transition text-white">
+            <i class="fab fa-linkedin-in text-sm"></i>
           </a>
         </div>
       </div>
@@ -228,10 +263,14 @@
   </div>
 
   <!-- Bottom -->
-  <div class="border-t border-gray-800 py-4 text-center text-sm">
-    © 2025 <span class="text-white">Bizpage</span> – PT Bertravel Media Internasional. All rights reserved.
+  <div class="border-t border-gray-800 py-4">
+    <p class="text-center text-xs text-gray-500">
+      © 2025 <span class="text-white font-medium">Bizpage</span> – PT Bertravel Media Internasional.
+      All rights reserved.
+    </p>
   </div>
 </footer>
+
 
 
 </body>
