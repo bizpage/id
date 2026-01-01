@@ -1,1 +1,9 @@
+User-agent: *
+Sitemap: https://bizpage.github.io/id/sitemap.xml
+Sitemap: https://bizpage.bertravel.com/feed
+Sitemap: https://riauflorist.com/sitemap.xml
+Sitemap: https://www.jualme.com/sitemap.xml
+Sitemap: https://www.btmi.biz.id/sitemap.xml
+Sitemap: https://www.bertravelguide.biz.id/sitemap.xml
 
+Allow: /
