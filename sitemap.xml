@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- Halaman Utama -->
+  <url>
+    <loc>https://bizpage.github.io/id/</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://bizpage.github.io/id/"/>
+  </url>
+  
+  <!-- Halaman Tentang Kami -->
+  <url>
+    <loc>https://bizpage.github.io/id/tentang-kami.html</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://bizpage.github.io/id/tentang-kami.html"/>
+  </url>
+  
+  <!-- Halaman Layanan Kami -->
+  <url>
+    <loc>https://bizpage.github.io/id/layanan-kami.html</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://bizpage.github.io/id/layanan-kami.html"/>
+  </url>
+  
+  <!-- Halaman Galeri -->
+  <url>
+    <loc>https://bizpage.github.io/id/galeri.html</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://bizpage.github.io/id/galeri.html"/>
+  </url>
+  
+  <!-- Halaman Article Index -->
+  <url>
+    <loc>https://bizpage.github.io/id/article/</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://bizpage.github.io/id/article/"/>
+  </url>
+  
+  <!-- Halaman Layanan: Jasa Publikasi Usaha -->
+  <url>
+    <loc>https://bizpage.github.io/id/jasa-publikasi-usaha.html</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://bizpage.github.io/id/jasa-publikasi-usaha.html"/>
+  </url>
+  
+  <!-- Halaman Layanan: Brand Activation -->
+  <url>
+    <loc>https://bizpage.github.io/id/brand-activation.html</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://bizpage.github.io/id/brand-activation.html"/>
+  </url>
+  
+  <!-- Halaman Layanan: Artikel SEO Website -->
+  <url>
+    <loc>https://bizpage.github.io/id/artikel-seo-website.html</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://bizpage.github.io/id/artikel-seo-website.html"/>
+  </url>
+  
+  <!-- Halaman Layanan: Pengelolaan Website -->
+  <url>
+    <loc>https://bizpage.github.io/id/pengelolaan-website.html</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://bizpage.github.io/id/pengelolaan-website.html"/>
+  </url>
+  
+  <!-- Halaman Layanan: Personal Branding -->
+  <url>
+    <loc>https://bizpage.github.io/id/personal-branding.html</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://bizpage.github.io/id/personal-branding.html"/>
+  </url>
+  
+  <!-- Halaman Kebijakan Privasi -->
+  <url>
+    <loc>https://bizpage.github.io/id/kebijakan-privasi.html</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://bizpage.github.io/id/kebijakan-privasi.html"/>
+  </url>
+  
+  <!-- Halaman Syarat & Ketentuan -->
+  <url>
+    <loc>https://bizpage.github.io/id/syarat-ketentuan.html</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://bizpage.github.io/id/syarat-ketentuan.html"/>
+  </url>
+  
+  <!-- Halaman Disclaimer -->
+  <url>
+    <loc>https://bizpage.github.io/id/disclaimer.html</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://bizpage.github.io/id/disclaimer.html"/>
+  </url>
+  
+  <!-- Artikel Blog: Solusi UMKM -->
+  <url>
+    <loc>https://bizpage.github.io/id/article/solusi-umkm-untuk-promosi-usaha-dengan-biaya-murah.html</loc>
+    <lastmod>2024-12-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://bizpage.github.io/id/article/solusi-umkm-untuk-promosi-usaha-dengan-biaya-murah.html"/>
+  </url>
+  
+</urlset>
